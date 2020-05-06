@@ -1,0 +1,16 @@
+.card{
+    margin-bottom: 1rem;
+}
+
+.badge{
+    margin-right: 3px;
+    justify-content: right;
+}
+
+.nav{
+    margin-right:auto ;
+}
+
+.progressbar{
+    margin-bottom: 3px;
+}
